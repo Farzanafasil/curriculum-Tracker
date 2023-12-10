@@ -1,0 +1,66 @@
+.login{
+    display: flex;
+    background-size: cover;
+    background-image:url(../images/minimalist-simple-linkedin-background-t6so1dkoxvwvwo8b.jpg);
+}
+
+.cardl{
+   background-color: rgba(255, 255, 255, 0.15);
+   box-shadow: 0 8px 32px 0 rgba(46, 16, 4, 0.37);
+   backdrop-filter: blur(8.5px);
+   border-radius: 10px;
+   color: rgb(117, 50, 36);
+   text-transform: uppercase;
+   width: 380px;
+}
+.welcome{
+  
+font-family: 'Sigmar', cursive;
+    color: rgb(85, 70, 66);
+    letter-spacing: 1.3px;
+}
+
+
+.box  {
+    padding-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: inset 8px 8px 8px #9e978c, inset -8px -8px 8px #0c273e;
+}
+
+.box.fas {
+    color: #0e0b0b;
+}
+
+
+.btn1 {
+    box-shadow: none;
+    width: 50%;
+    height: 40px;
+    background-color: #095738;
+    color: #fff;
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px #b1b1b1,
+        -3px -3px 3px #020f09;
+    letter-spacing: 1.3px;
+}
+
+.btn1:hover {
+    background-color: #09c869;
+}
+.reg1{
+    box-shadow: none;
+    width: 50%;
+    height: 40px;
+    background-color: #0a2ba2;
+    color: #f6f5f5;
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px #b1b1b1,
+        -3px -3px 3px #000000;
+    letter-spacing: 1.1px; 
+    text-decoration: none; 
+}
+.reg1:hover {
+    background-color: #2d58a2;
+    color: #f6f5f5;
+}

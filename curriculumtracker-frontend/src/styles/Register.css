@@ -1,0 +1,50 @@
+.register{
+    display: flex;
+    background-size: cover;
+    background-position: fixed;
+    /* box-sizing: border-box; */
+    background-image:url(../images/regst.jpg);
+   
+   
+}
+.cont{
+   margin-bottom: 300px;
+   margin-top:60px;
+}
+.regist{
+    font-family: 'Alegreya', serif;
+    font-weight: 900;
+    font-size: xx-large;
+    color: rgb(71, 16, 16);
+}
+.card2{
+    
+    background-color: rgba(255, 251, 251, 0.15);
+  
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   backdrop-filter: blur(8.5px);
+   border-radius: 10px;
+   color: rgb(35, 20, 59);
+   text-transform: uppercase;
+}
+.outline{
+    box-shadow: rgba(238, 182, 182, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   
+    border:solid rgb(180, 159, 159);
+}
+
+    .btn2 {
+        box-shadow: none;
+        width: 120px;
+        height: 40px;
+        background-color: #4c588a;
+        color: #fff;
+        border-radius: 15px;
+        box-shadow: 3px 3px 3px #b1b1b1,
+            -3px -3px 3px #020f09;
+        letter-spacing: 1.3px;
+    }
+    
+    .btn2:hover {
+        background-color: #7896b6;
+    }

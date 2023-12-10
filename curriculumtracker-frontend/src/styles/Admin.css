@@ -1,0 +1,79 @@
+body{
+    
+    background-size: cover;
+    background-position: fixed;
+    background-image: url(../images/vv.jpg);
+  
+  }
+h1{
+    color: rgb(239, 233, 232);
+    font-family: 'Merriweather', serif;
+   
+   text-shadow: 6px 3px 0px rgba(53, 27, 27, 0.6);
+   margin-top: 50px;
+   margin-bottom: 60px;
+  
+}
+h2{
+    color: rgb(238, 196, 242);
+    text-shadow: 4px 3px 3px rgba(128, 0, 0, 1);
+    font-family: 'Merriweather', serif;
+}
+.search{
+    max-width: 800px;
+   background-color: rgb(240, 235, 235);
+   border-radius: 81px; 
+    
+}
+.btnsearch{
+    max-width: 80px;
+    border-radius: 81px;
+   
+}
+
+.createc{
+    height: 90px;
+    padding: 30px;
+    font-weight: 900;
+  font-size: x-large;
+  background-color: rgb(205, 204, 203) ;
+}
+.form-controlc{
+    background-color: rgb(205, 204, 203) ;
+}
+.tblcolor{
+    background-color: aliceblue;
+}
+.table-container {
+    background-color: #a01a1a; /* Light ash color */
+    padding: 10px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #d2cece;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .table th {
+    background-color: rgb(178, 183, 183); /* Light ash color for table header */
+  }
+  
+  .table tbody tr:nth-child(even) {
+    background-color: #0a0a3e; /* Alternate background color for even rows */
+  }
+  
+  .table a {
+    text-decoration: none;
+    color: #007bff; /* Blue color for links */
+  }
+  
+  .table a:hover {
+    text-decoration: underline;
+  }
